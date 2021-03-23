@@ -11,10 +11,10 @@ import (
 
 	"github.com/urfave/cli"
 
-	"github.com/yudai/gotty/backend/localcommand"
-	"github.com/yudai/gotty/pkg/homedir"
-	"github.com/yudai/gotty/server"
-	"github.com/yudai/gotty/utils"
+	"fhyx.online/gotty/backend/localcommand"
+	"fhyx.online/gotty/pkg/homedir"
+	"fhyx.online/gotty/server"
+	"fhyx.online/gotty/utils"
 )
 
 func main() {
